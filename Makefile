@@ -1,5 +1,5 @@
-NAME = phusion/baseimage
-VERSION = 0.10.1
+NAME = index.segurasystems.com/phusion/baseimage
+VERSION = 18.04
 
 .PHONY: all build test tag_latest release ssh
 
